@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "121471218727",
+    "project_id": "servisbul-b1b1b",
+    "storage_bucket": "servisbul-b1b1b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121471218727:android:7fbbd4620f8f89c3e4ca02",
+        "android_client_info": {
+          "package_name": "com.example.servisbul"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkvnl38hBKe7KUbbhh94Nr0Nl1eUfiYz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
